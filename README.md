@@ -1,3 +1,7 @@
+# NOTICE
+
+Development moved to https://github.com/tieto-containers/openshift4-upi-openstack/
+
 OpenShift 4 UPI on OpenStack
 =============================
 
